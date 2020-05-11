@@ -1,0 +1,29 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+  
+  .menu {
+    background: #f04d06;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+   
